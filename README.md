@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andrewcephas
-- 👀 I’m interested in Becaming a stack web developer and android
+- 👀 I’m  a full stack web developer and android
 - 🌱 I’m currently learning website designing
 - 💞️ I’m looking to collaborate on android
 - 📫 How to reach me via 0793614592

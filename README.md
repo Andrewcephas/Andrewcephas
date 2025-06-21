@@ -78,11 +78,19 @@ My work blends sleek visuals and powerful logic to create seamless digital exper
 
 ## 🌐 Let’s Connect
 
-| 🌍 Website | 📧 Email | 💼 LinkedIn |
-|-----------|-----------|-------------|
-| [catech.co.ke](https://catech.co.ke) | info@catech.co.ke | [linkedin.com/in/andrewngumbau](https://linkedin.com/in/andrewngumbau) |
+| 🌍 Website | 📁 Portfolio | ✉️ Email |
+|-----------|--------------|-----------|
+| [catech.co.ke](https://catech.co.ke) | [andrewportfolio.catech.co.ke](https://andrewportfolio.catech.co.ke) | ngumbaucephas2@gmail.com |
 
 ---
+
+<p align="center">
+  🛍️ <a href="https://ecommerce.catech.co.ke" target="_blank"><strong>Ecommerce Website</strong></a> &nbsp;|&nbsp;
+  📺 <a href="https://www.youtube.com/@catechsolutionsgraphics" target="_blank"><strong>YouTube</strong></a> &nbsp;|&nbsp;
+  🎵 <a href="https://www.tiktok.com/@catechsolutionsgraphics" target="_blank"><strong>TikTok</strong></a> &nbsp;|&nbsp;
+  📘 <a href="https://www.facebook.com/profile.php?id=61569811203372" target="_blank"><strong>Facebook</strong></a>
+</p>
+
 
 > *“Design is not just what it looks like and feels like. Design is how it works.”*  
 > — *Andrew Ngumbau*
